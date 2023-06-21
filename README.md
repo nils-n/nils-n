@@ -26,9 +26,10 @@ Currently, I'm expanding my skill set by diving into the world of web developmen
 #### Hackathon Participations:
     
 <span>
+     <a href="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug/image"></a>
     <a href="https://api.eu.badgr.io/public/assertions/Wfp4MXToQy6K95iC86ABuw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/Wfp4MXToQy6K95iC86ABuw/image"></a> 
-    <a href="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug/image"></a>
-    </div>
+   <a href="https://api.eu.badgr.io/public/assertions/NYGApNsCQcmFqcwuIFa1Qw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NYGApNsCQcmFqcwuIFa1Qw/image"></a> 
+ 
 </span>
 
 
