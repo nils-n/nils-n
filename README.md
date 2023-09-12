@@ -19,7 +19,6 @@ Currently, I'm expanding my skill set by diving into the world of web developmen
 
  #### Frameworks:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -33,12 +32,13 @@ Currently, I'm expanding my skill set by diving into the world of web developmen
 </details>
 
 #### Hackathon Participations:
-    
+
 <span>
-     <a href="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug/image"></a>
-    <a href="https://api.eu.badgr.io/public/assertions/Wfp4MXToQy6K95iC86ABuw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/Wfp4MXToQy6K95iC86ABuw/image"></a> 
+   <a href="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug/image"></a>
+   <a href="https://api.eu.badgr.io/public/assertions/Wfp4MXToQy6K95iC86ABuw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/Wfp4MXToQy6K95iC86ABuw/image"></a> 
    <a href="https://api.eu.badgr.io/public/assertions/NYGApNsCQcmFqcwuIFa1Qw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NYGApNsCQcmFqcwuIFa1Qw/image"></a> 
    <a href="https://api.eu.badgr.io/public/assertions/0l6fBCsQQl-ijwo1ah_LWw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/0l6fBCsQQl-ijwo1ah_LWw/image"></a> 
+   <a href="https://api.eu.badgr.io/public/assertions/3ekxnyVXQ4WkRdYJbFhixg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/3ekxnyVXQ4WkRdYJbFhixg/image"></a> 
 </span>
 
 
