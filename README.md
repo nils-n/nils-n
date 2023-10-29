@@ -39,9 +39,6 @@ Currently, I'm expanding my skill set by diving into the world of web developmen
    <a href="https://api.eu.badgr.io/public/assertions/NYGApNsCQcmFqcwuIFa1Qw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NYGApNsCQcmFqcwuIFa1Qw/image"></a> 
    <a href="https://api.eu.badgr.io/public/assertions/0l6fBCsQQl-ijwo1ah_LWw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/0l6fBCsQQl-ijwo1ah_LWw/image"></a> 
    <a href="https://api.eu.badgr.io/public/assertions/3ekxnyVXQ4WkRdYJbFhixg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/3ekxnyVXQ4WkRdYJbFhixg/image"></a> 
+   <a href="https://api.eu.badgr.io/public/assertions/YEhbKODfQ2-C6bDHtxy92g"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/YEhbKODfQ2-C6bDHtxy92g/image"></a> 
 </span>
-
-
-
-
 
