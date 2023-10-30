@@ -4,17 +4,17 @@
 
 Hello there! I'm Nils 👋
 
-I'm enrolled in a diploma for web development at Code Institute learning all I can about software engineering, love discovering all the details and new technologies. 
+I'm enrolled in a diploma for full-stack web development at Code Institute learning all I can about software engineering, best coding practices and web technologies. 
 
 #### Hackathon Participations:
 
 
 <p align="left">
  <span>
+    <a href="https://api.eu.badgr.io/public/assertions/0l6fBCsQQl-ijwo1ah_LWw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/0l6fBCsQQl-ijwo1ah_LWw/image"></a> 
     <a href="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NehCMQwvTsSklSysHBOjug/image"></a>
     <a href="https://api.eu.badgr.io/public/assertions/Wfp4MXToQy6K95iC86ABuw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/Wfp4MXToQy6K95iC86ABuw/image"></a> 
     <a href="https://api.eu.badgr.io/public/assertions/NYGApNsCQcmFqcwuIFa1Qw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/NYGApNsCQcmFqcwuIFa1Qw/image"></a> 
-    <a href="https://api.eu.badgr.io/public/assertions/0l6fBCsQQl-ijwo1ah_LWw"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/0l6fBCsQQl-ijwo1ah_LWw/image"></a> 
     <a href="https://api.eu.badgr.io/public/assertions/3ekxnyVXQ4WkRdYJbFhixg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/3ekxnyVXQ4WkRdYJbFhixg/image"></a> 
     <a href="https://api.eu.badgr.io/public/assertions/YEhbKODfQ2-C6bDHtxy92g"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/YEhbKODfQ2-C6bDHtxy92g/image"></a> 
  </span>
