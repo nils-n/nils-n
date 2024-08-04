@@ -29,7 +29,7 @@ I'm a full-stack web developer with an interest in data science, UI fundamentals
      
 <h3 style='font-size:2em; display:flex; align-content:center;'> Backend: <h3>
      
-[![My Skills](https://skillicons.dev/icons?i=django,flask,py,sklearn,firebase,supabase,cloudflare,workers,postgres)](#)
+[![My Skills](https://skillicons.dev/icons?i=django,py,sklearn,firebase,supabase,cloudflare,workers,postgres)](#)
 
 <h3 style='font-size:2em; display:flex; align-content:center;'>Tools: <h3>
  
