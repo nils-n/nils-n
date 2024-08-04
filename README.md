@@ -23,17 +23,17 @@ I'm a full-stack web developer with an interest in data science, UI fundamentals
 
 <h3 style='font-size:2em; display:flex; align-content:center;'> Frontend: <h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,astro,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,astro,figma)](#)
 
 
      
 <h3 style='font-size:2em; display:flex; align-content:center;'> Backend: <h3>
      
-[![My Skills](https://skillicons.dev/icons?i=django,flask,py,sklearn,firebase,supabase,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,flask,py,sklearn,firebase,supabase,postgres)](#)
 
 <h3 style='font-size:2em; display:flex; align-content:center;'>Tools: <h3>
  
-[![My Skills](https://skillicons.dev/icons?i=bash,linux,vscode,matlab,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,linux,vscode,matlab,postman,git,github)](#)
      
 
 
